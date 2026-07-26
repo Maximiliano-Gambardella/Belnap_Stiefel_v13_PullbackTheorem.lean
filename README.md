@@ -40,4 +40,3 @@ To maintain the highest epistemological standards, this development is designed 
 
 ***
 
-**Nota per l'utente:** Ho utilizzato il termine "Markdown" (che è il formato corretto per i file `.md` di GitHub) per gestire le formule in LaTeX tra i simboli `$` e `$$`. Assicurati di rinominare il file come `README.md` quando lo carichi nel repository.
