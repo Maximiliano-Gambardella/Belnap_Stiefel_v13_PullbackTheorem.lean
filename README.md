@@ -28,7 +28,7 @@ The development is organized into seven sections mirroring the companion paper:
 
 To maintain the highest epistemological standards, this development is designed for **browser-based verification**.
 
-1.  Copy the contents of `Belnap_Stiefel_v13_PullbackTheorem.lean`.
+1.  Copy the contents of `pullback_theorem_v4.lean`.
 2.  Paste it into the [Lean 4 Playground](https://live.lean-lang.org/).
 3.  Observe the absence of `sorry` placeholders and the confirmation of "No goals" at the end of each proof.
 
